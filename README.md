@@ -8,4 +8,4 @@ Takes quotes and authors from API when clicked on the book button.
 
 ## What can be done?
 
--[] Create an website using pyscript or javascript (I think javascript would be more sufficient because I want to visually see it in github page) 
+-[ ] Create an website using pyscript or javascript (I think javascript would be more sufficient because I want to visually see it in github page) 
